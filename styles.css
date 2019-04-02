@@ -1,0 +1,36 @@
+.info {
+    display: flex;
+    justify-content: space-around;
+}
+
+.enter {
+    display: flex;
+    justify-content: space-around;
+}
+
+.label {
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid red;
+}
+
+.total {
+    text-align: right;
+}
+
+.something {
+    display: flex;
+    justify-content: space-between;
+}
+
+.lists {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+body {
+    text-align: center;
+    background-image: url(https://cdn.shopify.com/s/files/1/1481/9746/products/chocolate_2000x.jpg?v=1493760030);
+    font-family: 'Clicker Script', cursive;
+}
+
